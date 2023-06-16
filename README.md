@@ -1,6 +1,9 @@
 # wf_fizzbuzz
 
-Write code that will go through each number from 1 to 100 and:
+
+## solution branch
+
+Write [code](index.js) that will go through each number from 1 to 100 and:
 
 - For each number that is a multiple of 3, print "Fizz"
 - For each number that is a multiple of 5, print "Buzz"
